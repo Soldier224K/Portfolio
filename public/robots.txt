@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /ops
+Disallow: /pro/dashboard
+
+Sitemap: https://rajrasal.com/sitemap.xml
